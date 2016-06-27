@@ -1,16 +1,12 @@
 import * as React from "react";
 import * as ReactDOM from "react-dom";
 
-const Hello = (props: { compiler: string, framework: string }) => {
-    return (
-        <div>
-            <div>{props.compiler}</div>
-            <div>{props.framework}</div>
-        </div>
-    );
-}
+const rendered = <div/>;
+
+
+
 
 ReactDOM.render(
-    <Hello compiler="TypeScript" framework="React" />,
+    rendered,
     document.getElementById("root")
 );
