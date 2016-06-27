@@ -7,6 +7,6 @@ const rendered = <div>Hello World</div>
 
 // Render to DOM
 ReactDOM.render(
-    rendered,
-    document.getElementById("root")
+  rendered,
+  document.getElementById("root")
 );
