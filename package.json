@@ -12,11 +12,11 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "react": "^15.1.0",
-    "react-dom": "^15.1.0",
-    "ts-loader": "^0.8.2",
-    "typescript": "^1.9.0-dev.20160328",
-    "typings": "^0.7.9",
-    "webpack": "^1.12.14"
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "ts-loader": "^6.0.4",
+    "typescript": "^3.5.3",
+    "typings": "^2.1.1",
+    "webpack": "^4.35.3"
   }
 }
